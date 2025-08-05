@@ -3,7 +3,7 @@
 A Color-Conditioned UNet that fills polygon outlines with specified colors.
 
 
-##Predictions
+Prediction
 <img width="1154" height="390" alt="Image" src="https://github.com/user-attachments/assets/4aeff13d-4333-40fb-8f4b-f5436b14096a" />
 
 
