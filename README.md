@@ -81,4 +81,4 @@ View live dashboard: [Weights & Biases](https://api.wandb.ai/links/suhastg128200
 
 **Suhas TG**
 Email: [suhastg1282004@gmail.com](mailto:suhastg1282004@gmail.com)
-LinkedIn: [linkedin.com/in/suhastg](https://linkedin.com/in/suhastg)
+LinkedIn: [linkedin.com/in/suhastg]([https://linkedin.com/in/suhastg](https://www.linkedin.com/in/suhastg2004/))
