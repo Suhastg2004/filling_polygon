@@ -1,12 +1,5 @@
 # 🎨 Polygon Color Filling with UNet
 
-[
-[
-[![Weights & Biases](https://img.shields.io/badge/Weights_ling using Color-Conditioned UNet architecture*
-
-[🚀 Live Demo](https://api.wandb.ai/links/suhastg1282004-na/9a83o647) -  [📊 Experiment Tracking](https://api.wandb.ai/links/suhastg1282004-na/9a83o647) -  [📋 Assignment Brief](#assignment-overview)
-
-
 
 ## 🎯 Problem StatementGiven a **polygon outline image** and a **color name** as inputs, the model generates a **filled polygon image** with the specified color. This is a conditional image generation task that combines computer vision and natural language processing concepts.
 
