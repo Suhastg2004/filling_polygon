@@ -2,6 +2,8 @@
 
 A Color-Conditioned UNet that fills polygon outlines with specified colors.
 
+https://github.com/user-attachments/assets/62afdd37-8c89-4736-984a-0c6f33325129
+
 ## Overview
 
 * **Input**: Polygon outline image + color name (text)
