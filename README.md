@@ -2,6 +2,12 @@
 
 A Color-Conditioned UNet that fills polygon outlines with specified colors.
 
+
+##Predictions
+<img width="1154" height="390" alt="Image" src="https://github.com/user-attachments/assets/4aeff13d-4333-40fb-8f4b-f5436b14096a" />
+
+
+
 https://github.com/user-attachments/assets/62afdd37-8c89-4736-984a-0c6f33325129
 
 ## Overview
@@ -21,9 +27,6 @@ https://github.com/user-attachments/assets/62afdd37-8c89-4736-984a-0c6f33325129
 │   └── validation/
 └── README.md
 ```
-
-##Predictions
-<img width="1154" height="390" alt="Image" src="https://github.com/user-attachments/assets/4aeff13d-4333-40fb-8f4b-f5436b14096a" />
 
 ## Quick Start
 
